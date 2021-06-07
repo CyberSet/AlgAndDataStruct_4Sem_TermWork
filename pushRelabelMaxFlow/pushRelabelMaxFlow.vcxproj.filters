@@ -24,6 +24,9 @@
     <Text Include="test2.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="incorrectTest.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">

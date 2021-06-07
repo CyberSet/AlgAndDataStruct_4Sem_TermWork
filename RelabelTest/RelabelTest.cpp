@@ -36,5 +36,16 @@ namespace RelabelTest
 			test.inputEdge(in);
 			Assert::AreEqual(test.getMaxFlow(), 9);
 		}
+
+		TEST_METHOD(pushRelableInputTest1) {
+			fstream in("F:\\Универ\\Прога 4 сем\\AlgAndDataStruct_4Sem_TermWork\\pushRelabelMaxFlow\\incorrectTest.txt");
+			try {
+				test.inputVertex(in);
+				test.inputEdge(in);
+			}
+			catch (exception warning) {
+				Assert::AreEqual(warning.what(), "Ошибка во входных данных");
+			}
+		}
 	};
 }

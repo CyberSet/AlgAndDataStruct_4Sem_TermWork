@@ -1,11 +1,11 @@
 ﻿  Source.cpp
 F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(42,22): warning C4018: '<': signed/unsigned mismatch
-F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(56,22): warning C4018: '<': signed/unsigned mismatch
-F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(86,22): warning C4018: '<': signed/unsigned mismatch
-F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(94,21): warning C4018: '<': signed/unsigned mismatch
-F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(106,21): warning C4018: '<': signed/unsigned mismatch
-F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(126,21): warning C4018: '<': signed/unsigned mismatch
-F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(141,21): warning C4018: '<': signed/unsigned mismatch
-F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(161,21): warning C4018: '<': signed/unsigned mismatch
-F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(179,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(57,22): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(87,22): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(95,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(107,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(127,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(142,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(162,21): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\graph.h(180,21): warning C4018: '<': signed/unsigned mismatch
   pushRelabelMaxFlow.vcxproj -> F:\Универ\Прога 4 сем\AlgAndDataStruct_4Sem_TermWork\pushRelabelMaxFlow\Debug\pushRelabelMaxFlow.exe

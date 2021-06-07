@@ -8,9 +8,9 @@ int main() {
     graph test;
     setlocale(LC_ALL, "RUS");
     try {
-        fstream in("F:\\Универ\\Прога 4 сем\\AlgAndDataStruct_4Sem_TermWork\\pushRelabelMaxFlow\\in.txt");
+        fstream in("F:\\Универ\\Прога 4 сем\\AlgAndDataStruct_4Sem_TermWork\\pushRelabelMaxFlow\\incorrectTest.txt");
         test.inputVertex(in);
-        in.open("F:\\Универ\\Прога 4 сем\\AlgAndDataStruct_4Sem_TermWork\\pushRelabelMaxFlow\\in.txt");
+        in.open("F:\\Универ\\Прога 4 сем\\AlgAndDataStruct_4Sem_TermWork\\pushRelabelMaxFlow\\incorrectTest.txt");
         test.inputEdge(in);
     }
     catch (exception warning) {

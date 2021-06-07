@@ -50,7 +50,8 @@ public:
 				vertexes.push_back(curVertex);
 			}
 			in >> c;
-			if (c != ' ') throw "Ошибка во входных данных";
+			if (c != ' ')
+				throw "Ошибка во входных данных";
 			in >> c;
 			newVertex = true;
 			for (int i = 0; i < vertexes.getSize(); i++)

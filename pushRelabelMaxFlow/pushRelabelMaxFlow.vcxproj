@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Text Include="in.txt" />
+    <Text Include="incorrectTest.txt" />
     <Text Include="test1.txt" />
     <Text Include="test2.txt" />
   </ItemGroup>
